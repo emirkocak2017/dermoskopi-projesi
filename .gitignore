@@ -1,0 +1,4 @@
+data/
+all_images/
+venv/
+*.keras
